@@ -11,4 +11,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://vostart.github.io/devops-docs/`.
-Ссылка с ошибкой: [Тест](missing-page.md)
